@@ -34,6 +34,7 @@ namespace KiaDande_Centro_Medico
                 timer1.Enabled = false;
                 this.Visible = false;
                 frm_login login = new frm_login();
+                bt1.ShowSync(login);
                 login.Show();
             }
         }

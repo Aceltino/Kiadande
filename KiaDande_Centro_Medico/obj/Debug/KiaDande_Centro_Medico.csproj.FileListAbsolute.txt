@@ -1,19 +1,22 @@
-c:\users\user\documents\visual studio 2015\Projects\KiaDande_Centro_Medico\KiaDande_Centro_Medico\bin\Debug\KiaDande_Centro_Medico.exe
-c:\users\user\documents\visual studio 2015\Projects\KiaDande_Centro_Medico\KiaDande_Centro_Medico\bin\Debug\KiaDande_Centro_Medico.pdb
-c:\users\user\documents\visual studio 2015\Projects\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_login.resources
-c:\users\user\documents\visual studio 2015\Projects\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_process.resources
-c:\users\user\documents\visual studio 2015\Projects\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.Properties.Resources.resources
-c:\users\user\documents\visual studio 2015\Projects\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.csproj.GenerateResource.Cache
-c:\users\user\documents\visual studio 2015\Projects\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.exe
-c:\users\user\documents\visual studio 2015\Projects\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.pdb
-c:\users\user\documents\visual studio 2015\Projects\KiaDande_Centro_Medico\KiaDande_Centro_Medico\bin\Debug\Bunifu_UI_v1.5.3.dll
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.exe
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.pdb
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\bin\Debug\KiaDande_Centro_Medico.exe
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\bin\Debug\KiaDande_Centro_Medico.pdb
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.csprojResolveAssemblyReference.cache
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_login.resources
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_process.resources
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.Properties.Resources.resources
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.csproj.GenerateResource.Cache
-C:\Users\Eurico Dande\Documents\Projetos de programação\Kiadande_SGCM\KiaDande_Centro_Medico\KiaDande_Centro_Medico\bin\Debug\Guna.UI2.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\bin\Debug\KiaDande_Centro_Medico.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\bin\Debug\KiaDande_Centro_Medico.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_login.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_main.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_process.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.recep1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.list_proced.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.recep2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.recep3.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_triagem.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.consult1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.consult2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.consult3.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_lab.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.list_result.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.list_exam.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_gerent.resources

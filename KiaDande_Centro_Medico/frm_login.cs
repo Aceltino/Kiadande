@@ -122,5 +122,29 @@ namespace KiaDande_Centro_Medico
             else
                 txt_pass.PasswordChar = '*';
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            bt1.HideSync(pnl_login);
+            pnl_recuperação.Visible = true;
+            pnl_recuperação.BringToFront();
+            lbl_authen.Text = "Recuperação";
+
+            pnl_login.Visible = false;
+            pnl_login.SendToBack();
+            bt1.ShowSync(pnl_recuperação);
+        }
+
+        private void lbl_clo_Click(object sender, EventArgs e)
+        {
+            bt1.HideSync(pnl_recuperação);
+            pnl_login.Visible = true;
+            pnl_login.BringToFront();
+            lbl_authen.Text = "Autenticação";
+
+            pnl_recuperação.Visible = false;
+            pnl_recuperação.SendToBack();
+            bt1.ShowSync(pnl_login);
+        }
     }
 }
