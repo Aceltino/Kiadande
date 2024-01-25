@@ -20,3 +20,25 @@ C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centr
 C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.list_exam.resources
 C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2015\Projects\Kiadande_SGCM\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_gerent.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.exe
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.pdb
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\bin\Debug\KiaDande_Centro_Medico.exe
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\bin\Debug\KiaDande_Centro_Medico.pdb
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.csprojResolveAssemblyReference.cache
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.consult1.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.consult2.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.consult3.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_lab.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_login.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_main.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_process.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_triagem.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.frm_gerent.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.list_exam.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.list_proced.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.list_result.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.Properties.Resources.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.recep1.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.recep2.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.recep3.resources
+C:\Users\euric\Documents\GitHub\Kiadande\KiaDande_Centro_Medico\obj\Debug\KiaDande_Centro_Medico.csproj.GenerateResource.Cache
